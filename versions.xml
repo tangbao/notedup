@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
 
+    <version id="2021010801" >
+        <changes>
+            <change><![CDATA[<a href="https://github.com/tangbao/notedup/releases"> Download Link</a>]]></change>
+            <change>Support Escape from YinXiangBiJi</change>
+            <change>支持从印象笔记迁移到Evernote</change>
+        </changes>
+    </version>
+
     <version id="2014031401" >
         <changes>
             <change><![CDATA[<a href="http://vdisk.weibo.com/s/uf8fLIDZiIMgi">For Mac / Mac版</a>]]></change>

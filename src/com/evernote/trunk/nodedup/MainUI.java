@@ -432,10 +432,9 @@ public class MainUI extends JFrame {
 	public void copyNotes(JTextArea textArea, Account source, Account target, long uploadLimit, int threads){
 		if (source.isInitialized() && target.isInitialized()){
 			if(source.getEvernoteHost().equals("app.yinxiang.com") && target.getEvernoteHost().equals("www.evernote.com")){ //$NON-NLS-1$ //$NON-NLS-2$
-				System.out.println("WARNING: Copying from yinxiang to evernote is buggy due to network issues. :("); //$NON-NLS-1$
-				System.out.println("WARNING: Disabling temporarily in case it is messed up."); //$NON-NLS-1$
+				System.out.println("WARNING: Please use a VPN if you are copying from yinxiang to evernote and you are in China."); //$NON-NLS-1$
 				System.out.println("WARNING: Remove this check at your own risk."); //$NON-NLS-1$
-				return;
+//				return;
 			}
 
 			if(source.getEvernoteHost() != null && source.getEvernoteHost().equals(target.getEvernoteHost()) 
