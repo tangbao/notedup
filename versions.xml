@@ -4,8 +4,7 @@
     <version id="2021010801" >
         <changes>
             <change><![CDATA[<a href="https://github.com/tangbao/notedup/releases"> Download Link</a>]]></change>
-            <change>Support Escape from YinXiangBiJi</change>
-            <change>支持从印象笔记迁移到Evernote</change>
+            <change>Support Escaping from YinXiangBiJi</change>
         </changes>
     </version>
 
