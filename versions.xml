@@ -3,7 +3,7 @@
 
     <version id="2021010801" >
         <changes>
-            <change><![CDATA[<a href="https://github.com/tangbao/notedup/releases"> Download Link</a>]]></change>
+            <change><![CDATA[<a href="https://github.com/tangbao/notedup/releases">Download Link</a>]]></change>
             <change>Support Escaping from YinXiangBiJi</change>
         </changes>
     </version>

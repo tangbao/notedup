@@ -28,7 +28,8 @@ Use JDK 1.8 or newer for the project, and add the following required Libraries:
 2. [Scribe 1.3.5, the simple OAuth Java lib](https://mvnrepository.com/artifact/org.scribe/scribe/1.3.5)
 3. [JAXB API 2.3.1](https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api/2.3.1) (JDK 1.8 only)
 
-Obtain Evernote / YinXiangBiJi api key in ```Constants.java```.
+Obtain [Evernote](https://dev.evernote.com/doc/) / [YinXiangBiJi](https://dev.yinxiang.com/doc/) api key and api secret,
+and put them in ```Constants.java```.
 
 Use ```MANIFEST.MF``` for the artifact (i.e., .jar).
 
